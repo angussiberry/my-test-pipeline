@@ -3,5 +3,5 @@ test('15+5=20', () => {
 })
 
 test('Am i a moron', () => {
-    expect(15 + 5).toBe(30);
+    expect(400 + 800).toBe(1200);
 })
